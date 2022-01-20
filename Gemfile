@@ -10,6 +10,10 @@ gem 'mongoid_rails_migrations', '~> 1.4'
 gem "rspec", "~> 3.0"
 gem 'dotenv-rails'
 
+gem 'sidekiq'
+gem 'sidekiq-status'
+
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
