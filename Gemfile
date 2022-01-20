@@ -8,6 +8,7 @@ gem 'rails', '~> 6.0.0'
 gem 'mongoid', '~> 7.0.0'
 gem 'mongoid_rails_migrations', '~> 1.4'
 gem "rspec", "~> 3.0"
+gem 'dotenv-rails'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
